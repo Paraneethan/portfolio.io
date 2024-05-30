@@ -1,0 +1,70 @@
+body {
+    background-image: url(czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjEwMTYtYy0wOF8xLWtzaDZtemEzLmpwZw.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 3500px;
+}
+
+#home {
+    position: relative;
+    width: 100%;
+    justify-content: space-between;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    padding: 70px 10% 0;
+}
+
+#about {
+    margin-top: 4rem;
+    padding-top: 4rem;
+    padding: 50px;
+    font-size: 25px;
+    margin: 10px;
+
+}
+
+.container-fluid {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    background: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+#skills {
+    padding: 70px;
+    font-size: 25px;
+    margin: 10px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    padding: 70px 10% 0;
+}
+#contact{
+    margin-top: 4rem;
+    padding-top: 4rem;
+    padding: 50px;
+    font-size: 25px;
+    margin: 10px;
+}
+.text-white{
+    font-size: 25px;
+}
+.photo{
+    font-size: 20px;
+    align-items: center;
+}
+.row{
+    font-size: 20px;
+    align-items: center;  
+}
